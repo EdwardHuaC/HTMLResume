@@ -1,0 +1,15 @@
+img {
+  border-radius: 50%;
+  height: 200px;
+}
+
+body {
+  background-color: #FBF8F1;
+}
+
+hr {
+  border-style: none;
+  /* border-top-style: dotted; */
+  border-width: 5px;
+  width: 5%;
+}
